@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juanbezanillaz@gmail.com
+	name = Juan Bezanilla
